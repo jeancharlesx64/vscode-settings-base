@@ -1,0 +1,16 @@
+{
+    // "powermode.enabled": true,
+    // "powermode.combo.counterEnabled": "hide",
+    // "powermode.combo.location": "off",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "all",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+}
